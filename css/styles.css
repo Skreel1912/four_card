@@ -1,0 +1,127 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  color: 	#a3a5ae;
+  text-align: center;
+  width: 1440px;
+  background-color: 	#fafafa;
+}
+
+h1 {
+  font-weight: 200;
+  color: #4c4e61;
+}
+
+h3 {
+  color: #4c4e61;
+}
+
+p {
+  font-weight: 200;
+}
+
+/* Heading Section */
+
+.bold-heading {
+  font-weight: 600;
+}
+
+.secondary-heading {
+  width: 540px;
+  position: relative;
+  left: 450px;
+}
+
+.secondary {
+  font-weight: 400;
+}
+
+/* Boxes Section */
+
+.box-heading {
+  padding: 20px 0 0 20px;
+}
+
+.box-paragraph {
+  padding: 0 50px 0 20px;
+}
+
+.box-logo {
+  position: relative;
+  left: 300px;
+  top: 50px;
+}
+
+.supervisor-box {
+height: 300px;
+width: 400px;
+border-radius: 3%;
+border-top-left-radius: 1.5%;
+border-top-right-radius: 1.5%;
+border-top: solid;
+border-width: thick;
+border-color: 	#45d3d3;
+box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+text-align: left;
+position: relative;
+top: 250px;
+left: 80px;
+}
+
+.teambuilder-box {
+  height: 300px;
+  width: 400px;
+  border-radius: 3%;
+  border-top-left-radius: 1.5%;
+  border-top-right-radius: 1.5%;
+  border-top: solid;
+  border-width: thick;
+  border-color: #ea5353;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+  position: relative;
+  bottom: 250px;
+  left: 510px;
+}
+
+.karma-box {
+  height: 300px;
+  width: 400px;
+  border-radius: 3%;
+  border-top-left-radius: 1.5%;
+  border-top-right-radius: 1.5%;
+  border-top: solid;
+  border-width: thick;
+  border-color: 	#fcaf4a;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+  position: relative;
+  left: 510px;
+  bottom: 200px;
+}
+
+.calculator-box {
+  height: 300px;
+  width: 400px;
+  border-radius: 3%;
+  border-top-left-radius: 1.5%;
+  border-top-right-radius: 1.5%;
+  border-top: solid;
+  border-width: thick;
+  border-color: 	#549ef2;
+  box-shadow: 0 4px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: left;
+  position: relative;
+  bottom: 665px;
+  left: 940px;
+}
+
+
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: 	#3e52a3;
+  position: relative;
+  bottom: 450px;
+  right: 20px;
+}
